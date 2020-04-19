@@ -19,6 +19,7 @@ g++ -o GOL main.cpp -lsfml-graphics -lsfml-window -lsfml-system
 ```
 
 Alternative: Can be compiled and debugged using VS Code
+Edit "miDebuggerPath" in `./.vscode/launch.json` and "command" in `./.vscode/tasks.json`
 
 ## Running
 
